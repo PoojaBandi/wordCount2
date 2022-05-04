@@ -1,0 +1,21 @@
+#header{
+    background-color: aquamarine;
+    border:1px solid black;
+width:70vw;
+font-size: larger;
+margin-left: 10vw;
+}
+.word{
+    padding-left: 100px;
+}
+.result{
+    background-color: darkslateblue;
+    color:white;
+}
+#text{
+    background-color: rgb(171, 184, 179);
+    border:1px solid black;
+width:70vw;  
+margin-left: 10vw;
+
+}
